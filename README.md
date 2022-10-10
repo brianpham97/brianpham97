@@ -34,4 +34,8 @@ My Tech Stack
 <h3 align='center'>
 How to reach me 
 </h3>
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lbrian-phaml/)](https://www.linkedin.com/in/lbrian-phaml/)
+<p align='center'>
+<a href="https://www.linkedin.com/in/lbrian-phaml/"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p> 
