@@ -1,4 +1,4 @@
-### Hi there :octocat:
+### Hi I'm Brian! Nice to meet ya ~ :octocat:
 
 <!--
 **brianpham97/brianpham97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a full stack developer with a passion of creating applications that involve bringing out a phenomenal experience to users. I am drawn to the constant developments of the tech industry and I want to always seek out opportunities on deploying something new.
+
+- 📍 Currently based in Los Angeles, CA
+- 🎮 Huge nerd for video games and anime
+- :heart: Love opportunities to get to know people
