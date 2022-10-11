@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-I’m a full stack developer with a passion of creating applications that involve bringing out a phenomenal experience to users. I am drawn to the constant developments of the tech industry and I want to always seek out opportunities on deploying something new.
+I’m a full-stack developer with a passion of creating applications that involve bringing out a phenomenal experience to users. I am drawn to the constant developments of the tech industry and I want to always seek out opportunities on deploying something new.
 </p>
 
 - 📍 Currently based in Los Angeles, CA
