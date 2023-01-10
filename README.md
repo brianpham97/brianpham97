@@ -44,6 +44,7 @@ My Tech Stack
 
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logoColor=white" />
 
 </p>
 
