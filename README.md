@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I’m a full-stack developer with a passion of creating applications that involve bringing out a phenomenal experience to users. I am drawn to the constant developments of the tech industry and I want to always seek out opportunities on deploying something new.
 </p>
 
-- 📍 Currently based in Los Angeles, CA
+- 📍 Currently based in Irvine, CA
 - 🎮 Huge nerd for video games and anime
 - :heart: Love opportunities to get to know people
 
